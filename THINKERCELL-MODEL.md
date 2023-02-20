@@ -43,6 +43,15 @@ Posteriormente aparecera un recuadro como este
 
 Asi lo dejaremos aun por ***DEFAULT***
 
+Damos en ***I accept the terms in the License Agreement*** y luego **NEXT**
+
+![image](https://user-images.githubusercontent.com/88853577/220182848-dad54b87-83ad-47ab-a39c-8a30fc461d17.png)
+
+**NEXT**
+![image](https://user-images.githubusercontent.com/88853577/220183013-04beb03d-20ea-4b0f-beac-a78e39a40bfe.png)
+
+![image](https://user-images.githubusercontent.com/88853577/220183047-e660bbfe-f109-47e8-a936-e541e0eb04c4.png)
+
 
 
  
