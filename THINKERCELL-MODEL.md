@@ -50,7 +50,34 @@ Damos en ***I accept the terms in the License Agreement*** y luego **NEXT**
 **NEXT**
 ![image](https://user-images.githubusercontent.com/88853577/220183013-04beb03d-20ea-4b0f-beac-a78e39a40bfe.png)
 
+**TYPICAL**
+
 ![image](https://user-images.githubusercontent.com/88853577/220183047-e660bbfe-f109-47e8-a936-e541e0eb04c4.png)
+
+**INSTALL**
+![image](https://user-images.githubusercontent.com/88853577/220183217-82de30d2-1d8a-4abf-b8fd-97e5c7feaea8.png)
+
+Y finalmente aceptamos que haga cambios y damos **FINISH** en el recuadro 
+
+![image](https://user-images.githubusercontent.com/88853577/220183376-999b84e0-256c-4867-88c4-0e52ee0d9ff6.png)
+
+Asi para Python, instalamos de preferencia para el usuario que esta usando el programa.
+![image](https://user-images.githubusercontent.com/88853577/220183475-37b71896-c2bd-4c1a-97c2-5050863a7b76.png)
+**NEXT**
+![image](https://user-images.githubusercontent.com/88853577/220183510-2d7b58af-e423-467e-bad7-193c3010d250.png)
+**NEXT**
+![image](https://user-images.githubusercontent.com/88853577/220183548-5c76d063-bb08-4de1-94d4-6901fff65940.png)
+Pedira que hagamos cambios en la computadora, y aceptamos. Asi aparecera un recuadro al cual le daremos **FINISH**
+
+![image](https://user-images.githubusercontent.com/88853577/220183685-64e6b5e2-51cc-4750-bcf7-bef772ea8839.png)
+
+Asi, tendras  THINKER CELL instalado
+
+![image](https://user-images.githubusercontent.com/88853577/220183778-dcd6a498-4eb7-4fd2-80cd-d019465629da.png)
+
+
+
+
 
 
 
